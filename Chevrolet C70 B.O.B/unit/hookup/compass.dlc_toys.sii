@@ -1,0 +1,8 @@
+SiiNunit
+{
+
+compass_hookup : compass
+{
+	model: "/vehicle/truck/upgrade/interior_decors/toystand/compass_needle.dlc_toys.pmd"
+}
+}

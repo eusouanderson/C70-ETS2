@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.oclu.rfx" {
+	texture[0] : "/vehicle/share/textures/leather/leather_1.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/mercedes_actros_2014/interior/interior_ao.tobj"
+	texture_name[1] : "texture_oclu"
+	add_ambient : 0
+	diffuse : { 1 , 0.827571 , 0.603827 }
+	reflection : 0
+	shininess : 20
+	specular : { 0.214041 , 0.214041 , 0.214041 }
+}

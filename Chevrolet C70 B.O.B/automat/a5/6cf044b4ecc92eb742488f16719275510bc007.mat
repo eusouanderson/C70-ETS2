@@ -1,0 +1,8 @@
+material : "eut2.lightmap.day.rfx" {
+	texture[0] : "/model/railing/tunnel/hw2_tunnel_01.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : 0
+	diffuse : { 0 , 0 , 0 }
+	shininess : 0
+	specular : { 0 , 0 , 0 }
+}

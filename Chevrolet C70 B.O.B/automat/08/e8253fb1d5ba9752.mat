@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.weight.add.env" {
+	texture[0] : "/vehicle/truck/renault_t/plastic_hard.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/soft_reflection/soft_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	diffuse : { 0.74902 , 0.74902 , 0.74902 }
+	specular : { 0.501961 , 0.501961 , 0.501961 }
+	shininess : 170
+	env_factor : { 0.219051 , 0.219051 , 0.219051 }
+	fresnel : { 0.200000 , 0.900000 }
+
+}

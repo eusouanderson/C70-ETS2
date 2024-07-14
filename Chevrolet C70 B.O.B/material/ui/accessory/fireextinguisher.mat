@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "fireextinguisher.tobj"
+	texture_name : "texture"
+}

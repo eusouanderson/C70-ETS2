@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "papertowel.tobj"
+	texture_name : "texture"
+}

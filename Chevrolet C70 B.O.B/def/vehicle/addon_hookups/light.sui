@@ -1,0 +1,44 @@
+accessory_hookup_data : light1.addon_hookup
+{
+	name: "Lumen Chrom"
+	icon: "light01"	
+	model: "/vehicle/truck/upgrade/light/light01.pmd"
+	suitable_for[]: "cabflares"
+	suitable_for[]: "topflares"
+	electric_type: aux_light
+	price: 270
+	unlock: 0
+}
+accessory_hookup_data : light2.addon_hookup
+{
+	name: "Lumen Mark I"
+	icon: "light02"
+	model: "/vehicle/truck/upgrade/light/light02.pmd"
+	suitable_for[]: "cabflares"
+	suitable_for[]: "topflares"
+	electric_type: aux_light
+	price: 80
+	unlock: 0
+}
+accessory_hookup_data : light3.addon_hookup
+{
+	name: "Lumen Mark II"
+	icon: "light03"
+	model: "/vehicle/truck/upgrade/light/light03.pmd"
+	suitable_for[]: "cabflares"
+	suitable_for[]: "topflares"
+	electric_type: aux_light
+	price: 140
+	unlock: 0
+}
+accessory_hookup_data : light4.addon_hookup
+{
+	name: "Lumen Mark III"
+	icon: "rec_light_chrm"
+	model: "/vehicle/truck/upgrade/light/rect_light_chrm.pmd"
+	suitable_for[]: "r_grill"
+	electric_type: aux_light
+	price: 250
+	unlock: 0
+}
+

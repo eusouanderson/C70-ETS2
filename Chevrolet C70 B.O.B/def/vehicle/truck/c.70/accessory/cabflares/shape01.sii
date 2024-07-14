@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape01.c.70.cabflares
+{
+	name: "Light Adapter"
+	price: 50
+	unlock: 0
+	icon: "lights"
+	exterior_model: "/vehicle/truck/upgrade/cabflares/c70/cabflares01.pmd"
+}
+}

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "transmission_allison_4000rds.tobj" 
+	texture_name : "texture" 
+} 

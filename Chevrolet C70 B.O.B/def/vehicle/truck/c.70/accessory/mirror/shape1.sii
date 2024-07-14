@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : default.c.70.mirror
+{
+	name: "Mirrors Duty"
+	price: 250
+	unlock: 0
+	icon: "kenworth_w900/mirrors_01"
+	exterior_model: "/vehicle/truck/upgrade/mirror/c70/mirror_02.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/c70/mirror_02_interior.pmd"
+}
+}

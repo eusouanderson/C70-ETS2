@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : rta1_disc.rdisc
+{
+	name: "Chromized-RTA"
+	price: 300
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/disc/rta1/rear_disc.pmd"
+	icon: "disc/rta1_disc"
+	suitable_for[]: "rta1_tire.rtire"
+}
+}

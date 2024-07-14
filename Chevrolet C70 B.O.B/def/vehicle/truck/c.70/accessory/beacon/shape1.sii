@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.c.70.beacon
+{
+	name: "Double Radiant"
+	price: 500
+	unlock: 0
+	icon: "beacon/beacon"
+	exterior_model: "/vehicle/truck/upgrade/beacon/beacon.pmd"
+}
+}

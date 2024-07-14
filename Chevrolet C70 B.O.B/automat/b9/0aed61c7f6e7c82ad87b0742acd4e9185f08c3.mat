@@ -1,0 +1,4 @@
+material : "eut2.shadowonly.rfx" {
+	shadow_bias : 0
+	substance : "road"
+}

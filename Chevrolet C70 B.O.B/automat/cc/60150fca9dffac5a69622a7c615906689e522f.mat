@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.weight.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/steering_knob/holder.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/steering_knob/holder_normalmap.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/interior_static/interior_static.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : -0.25
+	diffuse : { 0.214041 , 0.214041 , 0.214041 }
+	env_factor : { 0.214041 , 0.214041 , 0.214041 }
+	fresnel : { 1 , 1 }
+	reflection : 0
+	shininess : 70
+	specular : { 3 , 3 , 3 }
+}

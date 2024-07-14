@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape3.c.70.fr_mirror
+{
+	name: "Right Hood Mirror"
+	price: 280
+	unlock: 0
+	icon: "kenworth_w900/front_mirror"
+	exterior_model: "/vehicle/truck/upgrade/mirror/c70/mirror_01_front_right.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/c70/mirror_01_front_right_int.pmd"
+}
+}

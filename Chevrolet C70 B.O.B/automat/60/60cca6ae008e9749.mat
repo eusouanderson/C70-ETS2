@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.oclu.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/share/textures/speaker/shared_speaker.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/kenworth_w900/interior/int_big_no.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/vehicle/truck/kenworth_w900/interior/int_big_ao.tobj"
+	texture_name[2] : "texture_oclu"
+	texture[3] : "/material/environment/soft_reflection/soft_reflection.tobj"
+	texture_name[3] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.0508761 , 0.0508761 , 0.0508761 }
+	fresnel : { 1 , 0.4 }
+	reflection : 0
+	shininess : 18
+	specular : { 1 , 1 , 1 }
+}

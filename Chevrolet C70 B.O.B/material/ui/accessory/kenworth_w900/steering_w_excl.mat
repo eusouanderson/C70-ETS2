@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "steering_w_excl.tobj"
+	texture_name : "texture"
+}

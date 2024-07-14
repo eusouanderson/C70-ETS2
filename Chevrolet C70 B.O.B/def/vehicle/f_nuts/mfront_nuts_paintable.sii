@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_rim_data : rta1_nuts_p.fnuts
+{
+	name: "Painted-RTA"
+	price: 25
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/nuts/rta1/front_nuts_paintable.pmd"
+	icon: "nuts/rta1_nuts_p"
+	paintable: true
+	suitable_for[]: "rta1_tire.ftire"	
+
+}
+}

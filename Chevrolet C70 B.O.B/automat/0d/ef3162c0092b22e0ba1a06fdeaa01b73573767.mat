@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/ai/passat_2014/color.tobj"
+	texture_name[0] : "texture_base"
+}

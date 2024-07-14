@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.mult.dif.spec.rfx" {
+	texture[0] : "/prefab/garage/concrete.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/prefab/garage/shadowmap.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 16
+	specular : { 1 , 1 , 1 }
+}

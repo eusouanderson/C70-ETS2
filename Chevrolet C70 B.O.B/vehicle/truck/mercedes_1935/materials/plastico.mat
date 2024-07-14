@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.add.env.shadow" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/plastico.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.15 , 0.15 , 0.15 }
+	env_factor : { 0.9 , 0.9 , 0.9 }
+	shininess : 60
+	specular : { 0.02 , 0.02 , 0.02 }
+}

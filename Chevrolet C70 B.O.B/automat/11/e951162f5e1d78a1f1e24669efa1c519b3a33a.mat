@@ -1,0 +1,8 @@
+material : "eut2.dif.a.rfx" {
+	texture[0] : "/model/panorama/paris/paris.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	shininess : 45
+	specular : { 0.0680333 , 0.0680333 , 0.0680333 }
+}

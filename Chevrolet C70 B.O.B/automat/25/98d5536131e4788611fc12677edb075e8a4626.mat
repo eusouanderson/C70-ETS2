@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.mult.dif.spec.tg0.rfx" {
+	texture[0] : "/material/terrain/grass_droughty_main.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/prefab/farm/shadow2.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	aux[0] : { 10 , 10 }
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 12
+	specular : { 0.0331048 , 0.0331048 , 0.0331048 }
+}

@@ -1,0 +1,12 @@
+material : "eut2.dif.lum.rfx" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/details.001.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	ambient : { 0.4 , 0.4 , 0.4 }
+	diffuse : { 0.4 , 0.4 , 0.4 }
+	env_factor : { 0.964707 , 0.964707 , 0.964707 }
+	shininess : 95
+	specular : { 0.0941181 , 0.0941181 , 0.0941181 }
+	tint : { 1 , 1 , 1 }
+}

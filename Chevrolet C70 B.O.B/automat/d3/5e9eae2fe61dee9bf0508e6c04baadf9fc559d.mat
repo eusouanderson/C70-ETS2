@@ -1,0 +1,17 @@
+material : "eut2.water.rfx" {
+	texture[0] : "/material/terrain/water/water_river.tobj"
+	texture_name[0] : "texture_layer0"
+	texture[1] : "/material/terrain/water/water_river.tobj"
+	texture_name[1] : "texture_layer1"
+	texture[2] : "/material/environment/generic_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	aux[0] : { 100 , 200 , 0.001 }
+	aux[1] : { 0.578614 , 0.578614 , 0.578614 }
+	aux[2] : { 0.360196 , 0.360196 , 0.360196 }
+	aux[3] : { 0 , 0 , 10 , 10 }
+	aux[4] : { 0 , 0 , 1000 , 1000 }
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1 , 1 , 1 }
+	shininess : 4
+	specular : { 0.360196 , 0.360196 , 0.360196 }
+}

@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/intnational_lonestar/interior/metalgrid_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/intnational_lonestar/interior/metalgrid_n.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.433397 , 0.433397 , 0.433397 }
+	reflection : 0
+	shininess : 100
+	specular : { 0.218018 , 0.218018 , 0.218018 }
+}

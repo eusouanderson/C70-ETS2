@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "intnational_lonestar.tobj"
+	texture_name : "texture"
+}

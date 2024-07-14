@@ -1,0 +1,14 @@
+material : "eut2.truckpaint.tsnmapuv" {
+	texture[0] : "/vehicle/truck/upgrade/cargas/textures/color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/truck/upgrade/cargas/textures/nmap.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.395232 , 0.395232 , 0.395232 }
+	env_factor : { 0.073239 , 0.073239 , 0.073239 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 250
+	specular : { 0.379719 , 0.379719 , 0.379719 }
+}

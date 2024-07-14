@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/intnational_lonestar/interior/details.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/intnational_lonestar/interior/normalmap.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 2
+	diffuse : { 0.0196066 , 0.0196066 , 0.0196066 }
+	reflection : 0
+	shininess : 4
+	specular : { 0.0451862 , 0.0451862 , 0.0451862 }
+}

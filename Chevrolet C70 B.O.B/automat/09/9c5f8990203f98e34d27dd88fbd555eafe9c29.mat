@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight.rfx" {
+	texture[0] : "/vehicle/truck/man_tgx/interior/rubber.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0.5
+	diffuse : { 0.332231 , 0.332231 , 0.332231 }
+	reflection : 0
+	shininess : 10
+	specular : { 0.00255882 , 0.00255882 , 0.00255882 }
+}

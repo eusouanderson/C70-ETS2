@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.over.rfx" {
+	texture[0] : "/prefab/bridge/a4_koln_bridge.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.0254616 , 0.0254616 , 0.0254616 }
+	reflection : 0
+	shininess : 70
+	specular : { 6 , 6 , 6 }
+}

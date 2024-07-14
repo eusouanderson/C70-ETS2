@@ -1,0 +1,17 @@
+material : "eut2.lamp.tsnmapuv.add.env" {
+	texture[0] : "/vehicle/truck/upgrade/cargas/textures/lights.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/cargas/textures/lights_mask.tobj"
+	texture_name[1] : "texture_mask"
+	texture[2] : "/vehicle/truck/upgrade/cargas/textures/lights_nmap.tobj"
+	texture_name[2] : "texture_nmap"
+	texture[3] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[3] : "texture_reflection"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.447059 , 0.447059 , 0.447059 }
+	shininess : 50
+	add_ambient : 0
+	env_factor : { 0.753102 , 0.753102 , 0.753102 }
+      aux[5] : { 2000 , 10 }
+
+}

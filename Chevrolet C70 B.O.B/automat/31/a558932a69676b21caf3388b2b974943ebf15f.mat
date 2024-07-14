@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.add.rfx" {
+	texture[0] : "/model/railing/tunnel/arlberg_tunel.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.439801 , 0.439801 , 0.439801 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

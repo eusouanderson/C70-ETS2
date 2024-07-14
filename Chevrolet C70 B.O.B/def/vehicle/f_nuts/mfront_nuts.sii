@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : rta1_nuts.fnuts
+{
+	name: "Chromized-RTA"
+	price: 25
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/nuts/rta1/front_nuts.pmd"
+	icon: "nuts/rta1_nuts"
+	suitable_for[]: "rta1_tire.ftire"	
+
+}
+}

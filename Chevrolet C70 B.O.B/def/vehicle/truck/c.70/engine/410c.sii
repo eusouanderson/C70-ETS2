@@ -1,0 +1,38 @@
+SiiNunit
+{
+accessory_engine_data : 410c.c.70.engine
+{
+	name: "OM - 447 - 410CV Bomba Aberta"
+	price: 4799
+	unlock: 0
+	info[]: "445 @@hp@@ (334@@kw@@)"
+	info[]: "2@@dg@@240 @@nm@@"
+	info[]: "1@@dg@@100 @@rpm@@"
+	icon: "engn14_02"
+	torque: 12240
+	
+	volume: 11.96
+	
+	no_adblue_power_limit: 0.5
+	torque_curve[]: (300, 0)
+	torque_curve[]: (500, 0.6)
+	torque_curve[]: (900, 0.95)
+	torque_curve[]: (1050, 1)
+	torque_curve[]: (1300, 1)
+	torque_curve[]: (1750, 0.85)
+	torque_curve[]: (2100, 0.6)
+	torque_curve[]: (4100, 0.45)
+	
+	rpm_idle: 650
+	rpm_limit: 1500
+	rpm_range_low_gear: (1000, 1850)
+	rpm_range_high_gear: (1100, 1600)
+	rpm_range_power: (3300, 6240)
+
+	engine_brake_positions: 3
+	engine_brake_downshift: 1
+
+@include "sound.sui"
+}
+
+}

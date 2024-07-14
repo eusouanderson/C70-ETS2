@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "flag_va.tobj"
+	texture_name : "texture"
+}

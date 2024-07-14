@@ -1,0 +1,9 @@
+material : "eut2.dif.spec" {
+	texture[0] : "/model/blender_export/textures/blackCABLES.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0.0 , 0.0 }
+	diffuse : { 0.494118 , 0.494118 , 0.494118 }
+	shininess : 30
+	specular : { 0.6 , 0.6 , 0.6 }
+}

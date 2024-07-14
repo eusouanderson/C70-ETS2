@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/model2/building/industry/silo/silo_detail_fr.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 40
+	specular : { 0.236147 , 0.285151 , 0.318547 }
+}

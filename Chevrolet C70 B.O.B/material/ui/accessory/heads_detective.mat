@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "heads_detective.tobj"
+	texture_name : "texture"
+}

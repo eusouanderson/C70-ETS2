@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/model/mover/characters/textures/body/man_body_02_lum.tobj"
+	texture_name[0] : "texture_base"
+}

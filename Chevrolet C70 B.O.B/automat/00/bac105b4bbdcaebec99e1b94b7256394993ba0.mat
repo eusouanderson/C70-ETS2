@@ -1,0 +1,5 @@
+material : "eut2.shadowmap.rfx" {
+	texture[0] : "/prefab/construction/ground_edinburgh.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

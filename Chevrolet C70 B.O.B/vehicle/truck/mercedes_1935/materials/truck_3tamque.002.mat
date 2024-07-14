@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.add.env" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/03tamque.002.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1.0 , 1.0 , 1.0 }
+	env_factor : { 0.423529 , 0.423529 , 0.423529 }
+	shininess : 41
+	specular : { 0.501961 , 0.501961 , 0.501961 }
+}

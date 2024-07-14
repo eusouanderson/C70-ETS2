@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.over.dif.opac.rfx" {
+	texture[0] : "/vehicle/trailer_eu/schmitz/universal/universal.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/trailer_eu/schmitz/universal/paintjob_schmitz.tobj"
+	texture_name[1] : "texture_over"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	reflection2 : 0
+	shininess : 20
+	specular : { 0.073239 , 0.073239 , 0.073239 }
+}

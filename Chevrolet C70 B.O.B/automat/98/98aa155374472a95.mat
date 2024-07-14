@@ -1,0 +1,10 @@
+material : "eut2.dif.lum.lvcol.decal.over.rfx" {
+	texture[0] : "/vehicle/truck/intnational_9900i/interior/icons.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : { 2000 , 10 }
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

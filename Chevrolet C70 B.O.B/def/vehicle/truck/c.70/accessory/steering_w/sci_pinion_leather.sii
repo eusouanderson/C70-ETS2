@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_pin_l.freightliner.cascadia2019.steering_w
+{
+	name: "Pinion Leather"
+	price: 190
+	unlock: 0
+	icon: "sci/pinion_leather"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/pinion_leather.pmd"
+
+}
+}

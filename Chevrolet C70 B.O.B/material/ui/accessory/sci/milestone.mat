@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "milestone.tobj"
+	texture_name : "texture"
+}

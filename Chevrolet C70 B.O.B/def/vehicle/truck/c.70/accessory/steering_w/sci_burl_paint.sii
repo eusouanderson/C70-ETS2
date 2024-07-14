@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_burl_p.freightliner.cascadia2019.steering_w
+{
+	name: "Traveler Burl Paint"
+	price: 350
+	unlock: 0
+	icon: "sci/traveler_paint"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/traveler_paint.pmd"
+
+}
+}

@@ -1,0 +1,5 @@
+material: "ui" 
+{ 
+	texture: "riveted_sport.tobj" 
+	texture_name: "texture" 
+} 

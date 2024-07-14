@@ -1,0 +1,28 @@
+SiiNunit
+{
+accessory_addon_trailer_cables_data : stock.c.70.trlr_cables
+{
+	exterior_model: "/vehicle/truck/upgrade/trlr_cables/trlr_cables 3.pmd"
+
+      suitable_for[]: "long1.c.70.chassis"
+      suitable_for[]: "long1_6x2.c.70.chassis"
+      suitable_for[]: "long2.c.70.chassis"
+      suitable_for[]: "long2_6x2.c.70.chassis"
+      suitable_for[]: "short1.c.70.chassis"
+      suitable_for[]: "short1_6x2.c.70.chassis"
+      suitable_for[]: "short2.c.70.chassis"
+      suitable_for[]: "short2_6x2.c.70.chassis"
+      conflict_with[]: "long1_6x2_m.c.70.chassis"
+      conflict_with[]: "long2_6x2_m.c.70.chassis"
+      conflict_with[]: "short1_6x2_m.c.70.chassis"
+      conflict_with[]: "short2_6x2_m.c.70.chassis"
+
+
+	
+@include "/def/vehicle/truck/common_trlr_cables_mack4.sui"
+
+}
+
+@include "/def/vehicle/truck/common_trlr_cables_data_mack4.sui"
+
+}

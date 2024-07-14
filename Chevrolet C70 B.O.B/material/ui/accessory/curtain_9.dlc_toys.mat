@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "curtain_9.dlc_toys.tobj"
+	texture_name : "texture"
+}

@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.a.rfx" {
+	texture[0] : "/vehicle/truck/volvo_fh16_2012/alpha_n.tobj"
+	texture_name[0] : "texture_nmap"
+	texture[1] : "/vehicle/truck/volvo_fh16_2012/alpha_c.tobj"
+	texture_name[1] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.0792354 , 0.0792354 , 0.0792354 }
+}

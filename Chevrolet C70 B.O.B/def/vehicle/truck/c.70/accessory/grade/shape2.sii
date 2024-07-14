@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape2.c.70.grade
+{
+	name: "@@Grade Cinza@@"
+	price: 800
+	unlock: 0
+	icon: "acessoriogotergmgg"
+	exterior_model: "/vehicle/truck/upgrade/grade/grade2.pmd"
+}
+}

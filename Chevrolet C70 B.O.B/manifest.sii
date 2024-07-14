@@ -1,0 +1,17 @@
+SiiNunit
+{
+mod_package : .package_name
+{
+package_version:     "2.0"
+
+display_name:        "Chevrolet C70 B.O.B"
+
+author:              "B.O.B"
+
+category[]:	     "truck"
+
+icon:                "mod_image.jpg"
+
+description_file:    "mod_description.txt"
+}
+}

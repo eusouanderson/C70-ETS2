@@ -1,0 +1,14 @@
+material : "eut2.truckpaint.tsnmap.shadow" {
+	texture[0] : "/vehicle/truck/intnational_lonestar/color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/intnational_lonestar/nmap.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	diffuse : { 0.337255 , 0.345098 , 0.407843 }
+	specular : { 0.337255 , 0.345098 , 0.407843 }
+	shininess : 250
+	add_ambient : 0
+	env_factor : { 0.073239 , 0.073239 , 0.073239 }
+
+}

@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.add.env.nofresnel" {
+	texture[0] : "/vehicle/truck/mercedes.1916/textures/chrome_negro.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1.0 , 1.0 , 1.0 }
+	env_factor : { 0.54902 , 0.54902 , 0.54902 }
+	shininess : 100
+	specular : { 0.619608 , 0.619608 , 0.619608 }
+}

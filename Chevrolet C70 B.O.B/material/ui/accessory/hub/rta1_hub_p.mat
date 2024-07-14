@@ -1,0 +1,4 @@
+material : "ui" 
+{ 
+	texture: "rta1_hub_p.tobj" 
+texture_name : "texture" } 

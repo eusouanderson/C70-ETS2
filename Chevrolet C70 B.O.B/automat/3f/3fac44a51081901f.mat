@@ -1,0 +1,14 @@
+material : "eut2.glass.rfx" {
+	texture[0] : "/vehicle/share/textures/generic/white_0.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/interior_static/interior_static.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	fresnel : { 0 , 1.4 }
+	queue_bias : 0
+	shininess : 20
+	specular : { 0.382774 , 0.688532 , 0.759992 }
+	tint : { 1 , 1 , 1 }
+	tint_opacity : 0.002
+}

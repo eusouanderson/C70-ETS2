@@ -1,0 +1,8 @@
+material : "eut2.lightmap.day.rfx" {
+	texture[0] : "/prefab/truck_dealer/truck_dealer_02.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : 0
+	diffuse : { 0.153775 , 0.153775 , 0.153775 }
+	shininess : 0
+	specular : { 0.0456608 , 0.0456608 , 0.0456608 }
+}

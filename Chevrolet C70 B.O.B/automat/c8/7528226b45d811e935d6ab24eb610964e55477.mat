@@ -1,0 +1,5 @@
+material : "eut2.shadowmap.rfx" {
+	texture[0] : "/prefab/electro_distribution_points/shadowmap_big.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

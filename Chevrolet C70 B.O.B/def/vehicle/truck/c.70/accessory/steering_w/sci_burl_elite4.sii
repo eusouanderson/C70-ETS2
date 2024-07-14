@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_burl_el4.freightliner.cascadia2019.steering_w
+{
+	name: "Traveler Burl Elite 4"
+	price: 350
+	unlock: 0
+	icon: "sci/traveler_wood"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/traveler_wood.pmd"
+
+}
+}

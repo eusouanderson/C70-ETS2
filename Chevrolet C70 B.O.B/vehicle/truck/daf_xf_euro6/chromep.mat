@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.tsnmap.shadow" {
+	texture[0] : "/vehicle/truck/scania_2016/metal_color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/scania_2016/metal_normal.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	diffuse : { 1 , 1 , 1 }
+	specular : { 1 , 1 , 1 }
+	shininess : 50
+	env_factor : { 0.787412 , 0.787412 , 0.787412 }
+	fresnel : { 0.2 , 0.9 }
+
+}

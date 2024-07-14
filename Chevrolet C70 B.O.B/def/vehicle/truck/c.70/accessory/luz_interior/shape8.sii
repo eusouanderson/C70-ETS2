@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape8.c.70.luz_interior
+{
+	name: "Interior Orange Lights"
+	price: 100
+	unlock: 0
+	icon: "ttmods"
+	exterior_model: "/vehicle/truck/upgrade/luz_interior/orangel.pmd"
+	
+}
+}

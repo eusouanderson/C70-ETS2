@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "gamebox.tobj"
+	texture_name : "texture"
+}

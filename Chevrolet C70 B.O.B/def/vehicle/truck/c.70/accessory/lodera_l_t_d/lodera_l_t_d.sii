@@ -1,0 +1,28 @@
+SiiNunit
+{
+accessory_addon_patch_data : lodera_l_t_d.c.70.lodera_l_t_d
+{
+	name: "lodera negro"
+	price: 159
+	icon: "inter"
+   
+  	exterior_model: "/vehicle/truck/upgrade/lodera/lodera_l_t_d.pmd"
+	interior_model: "/vehicle/truck/upgrade/lodera/lodera_l_t_d.pmd"
+	
+	data: .patch.phys_data
+}
+physics_patch_data : .patch.phys_data
+{
+ 	material: "/vehicle/truck/upgrade/lodera/negro.mat"
+	area_density: 4
+ 	linear_stiffness: 1.3
+	drag_coefficient: 0.1
+	lift_coefficient: 0.1
+	aero_model_type: "AT_two_side_lift_drag"
+ 	x_res: 10
+	y_res: 9
+	x_size: 0.74
+	y_size: 0.82
+ 
+}
+}

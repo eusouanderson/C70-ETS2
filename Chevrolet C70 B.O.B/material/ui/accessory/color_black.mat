@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "color_black.tobj"
+	texture_name : "texture"
+}

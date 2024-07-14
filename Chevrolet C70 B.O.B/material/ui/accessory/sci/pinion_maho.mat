@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "pinion_maho.tobj"
+	texture_name : "texture"
+}

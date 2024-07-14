@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.c.70.lamas
+{
+	name: "01"
+	price: 1590
+	unlock: 0
+	icon: "inter"
+	exterior_model: "/vehicle/truck/upgrade/lamas/lamas1.pmd"
+}
+}

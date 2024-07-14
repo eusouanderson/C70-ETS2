@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight" {
+	texture[0] : "/vehicle/wheel/rta1/metal.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.207843 , 0.207843 , 0.207843 }
+	specular : { 0.207843 , 0.207843 , 0.207843 }
+	shininess : 20
+	aux[1] : { 0 , 0 }
+
+}

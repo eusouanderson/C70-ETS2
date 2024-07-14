@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape4.c.70.lamas
+{
+	name: "04"
+	price: 1590
+	unlock: 0
+	icon: "inter"
+	exterior_model: "/vehicle/truck/upgrade/tanque/lamas4.pmd"
+}
+}

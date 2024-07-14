@@ -1,0 +1,9 @@
+material : "eut2.dif" {
+	texture[0] : "/vehicle/truck/mercedes.1916/interior1935/anim_details.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.25 , 0.25 , 0.25 }
+	specular : { 0.1 , 0.1 , 0.1 }
+	shininess : 20
+	add_ambient : 0
+
+}

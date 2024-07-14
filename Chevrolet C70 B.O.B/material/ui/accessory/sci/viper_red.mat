@@ -1,0 +1,5 @@
+material: "ui" 
+{ 
+	texture: "viper_red.tobj" 
+	texture_name: "texture" 
+} 

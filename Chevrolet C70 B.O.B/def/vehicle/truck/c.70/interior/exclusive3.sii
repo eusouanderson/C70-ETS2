@@ -1,0 +1,36 @@
+SiiNunit
+{
+accessory_interior_data: exclusive3.c.70.interior
+{
+    name: "Elegance3"
+    price: 3565
+	unlock: 0
+	icon: "inter"
+
+    model: "/vehicle/truck/c70/interior/model.pmd"
+	animated_model: "/vehicle/truck/c70/interior/animation/animation.pmd"
+    look: look1
+	variant: exclusive
+
+	defaults[]: "/def/vehicle/truck/c.70/accessory/steering_w/default.sii"
+
+@include "animations.sui"
+@include "sound.sui"
+@include "sound_effects.sui"
+
+    dashboard_path:"/ui/dashboard/kenworth_w900.sii"
+	gps_path:"/ui/gps.sii"
+
+	glass_panes[]: .intlonestar.r.pane.front
+	glass_panes[]: .intlonestar.r.pane.close
+	glass_panes[]: .intlonestar.r.pane.far
+	glass_panes[]: .intlonestar.r.pane.back_day
+
+@include "seat.sui"
+
+
+}
+@include "glass.sui"
+@include "glass_day.sui"
+@include "sound_effects_units.sui"
+}

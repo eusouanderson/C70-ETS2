@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_cl_carb.freightliner.cascadia2019.steering_w
+{
+	name: "Classic Green Carbon"
+	price: 170
+	unlock: 0
+	icon: "sci/classic_carbon"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/classic_carbon.pmd"
+
+}
+}

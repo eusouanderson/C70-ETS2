@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "heads_viking.tobj"
+	texture_name : "texture"
+}

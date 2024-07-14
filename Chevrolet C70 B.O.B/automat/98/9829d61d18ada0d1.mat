@@ -1,0 +1,5 @@
+material : "eut2.decalshadow.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toystand/alpha_ao.dlc_toys.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

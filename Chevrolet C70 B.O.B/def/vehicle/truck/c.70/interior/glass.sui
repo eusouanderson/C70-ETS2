@@ -1,0 +1,50 @@
+glass_pane_data : .intlonestar.r.pane.front
+{
+	locator: front_glass
+	size: (2.4, 0.8)
+	edge_angle: 20
+	wipers[]: .intlonestar.r.pane.wiper1
+	wipers[]: .intlonestar.r.pane.wiper2
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+
+wiper_data : .intlonestar.r.pane.wiper1
+{
+	center_bone: wiper_r_tip
+	length: 0.60
+}
+
+wiper_data : .intlonestar.r.pane.wiper2
+{
+	center_bone: wiper_l_tip
+	length: 0.60
+}
+
+glass_pane_data : .intlonestar.r.pane.close
+{
+	locator: l_glasspane
+	size: (0.82, 0.66)
+
+	openable_window_bone: win_open_l
+	openable_window_mask: "/vehicle/truck/intnational_lonestar/interior/win_mask_l.mask"
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+glass_pane_data : .intlonestar.r.pane.far
+{
+	locator: r_glasspane
+	size: (0.82, 0.66)
+
+	openable_window_bone: win_open_r
+	openable_window_mask: "/vehicle/truck/intnational_lonestar/interior/win_mask_r.mask"
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+

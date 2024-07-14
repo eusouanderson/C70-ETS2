@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toyhang/soccer_ball_n.dlc_toys.tobj"
+	texture_name[0] : "texture_nmap"
+	texture[1] : "/vehicle/truck/upgrade/interior_decors/toyhang/soccer_ball.dlc_toys.tobj"
+	texture_name[1] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 40
+	specular : { 0.652298 , 0.652298 , 0.652298 }
+}

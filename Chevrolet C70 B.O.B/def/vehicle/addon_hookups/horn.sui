@@ -1,0 +1,32 @@
+accessory_horn_hookup_data : horn1.addon_hookup
+{
+	name: "Roar"
+	icon: "horn01"
+	model: "/vehicle/truck/upgrade/horn/horn01.pmd"
+	price: 340
+	suitable_for[]: "horns"
+	unlock: 0
+	sound_path: "/sound/truck/air_horn/air_horn_09.soundref"
+}
+
+accessory_horn_hookup_data : horn2.addon_hookup
+{
+	name: "Big Roar"
+	icon: "horn02"
+	model: "/vehicle/truck/upgrade/horn/horn02.pmd"
+	price: 570
+	suitable_for[]: "horns"
+	unlock: 0
+	sound_path: "/sound/truck/air_horn/air_horn_04.soundref"
+}
+
+accessory_horn_hookup_data : horn3.addon_hookup
+{
+	name: "Super Roar"
+	icon: "horn03"
+	model: "/vehicle/truck/upgrade/horn/horn03.pmd"
+	price: 990
+	suitable_for[]: "horns"
+	unlock: 0
+	sound_path: "/sound/truck/air_horn/air_horn_01.soundref"
+}

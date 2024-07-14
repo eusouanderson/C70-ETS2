@@ -1,0 +1,24 @@
+SiiNunit
+{
+accessory_cabin_data : megaspace.c.70.cabin
+{
+	name: "1980 Cab"
+	price: 30000
+	unlock: 0
+	icon: "inter"
+	detail_model: "/vehicle/truck/c70/truck.pmd"
+	collision: "/vehicle/truck/c70/truck.pmc"
+	variant: cab_a
+
+	look: default
+	wiper_model: "/vehicle/truck/mercedes_1935/wipers.pmd"
+	wiper_anim: "/vehicle/truck/mercedes_actros_2009/wipers.pma"
+	wiper_model_uk: "/vehicle/truck/mercedes_actros_2009/wipers_uk.pmd"
+	wiper_anim_uk: "/vehicle/truck/mercedes_actros_2009/wipers_uk.pma"
+      windows_model: "/vehicle/truck/c70/win_open.pmd"
+     left_window_anim: "/vehicle/truck/c70/win_open_l.pma"
+     right_window_anim: "/vehicle/truck/c70/win_open_r.pma"
+	
+@include "sound.sui"
+}
+}

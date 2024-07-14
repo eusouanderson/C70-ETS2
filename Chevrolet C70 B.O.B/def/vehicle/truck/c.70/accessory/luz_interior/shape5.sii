@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape5.c.70.luz_interior
+{
+	name: "Interior Blue Lights"
+	price: 100
+	unlock: 0
+	icon: "ttmods"
+	exterior_model: "/vehicle/truck/upgrade/luz_interior/bluel.pmd"
+	
+}
+}

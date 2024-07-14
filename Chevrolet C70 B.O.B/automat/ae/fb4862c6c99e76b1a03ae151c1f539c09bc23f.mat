@@ -1,0 +1,5 @@
+material : "eut2.unlit.vcol.tex.over.rfx" {
+	texture[0] : "/vehicle/truck/volvo_fh16_2012/interior/dashboard_details.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

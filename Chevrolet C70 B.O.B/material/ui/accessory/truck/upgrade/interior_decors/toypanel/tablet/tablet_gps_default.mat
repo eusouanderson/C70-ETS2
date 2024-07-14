@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "tablet_gps_default.tobj"
+	texture_name : "texture"
+}

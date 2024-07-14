@@ -1,0 +1,9 @@
+material : "eut2.dif" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/11gmc.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0.0 , 0.0 }
+	diffuse : { 0.494118 , 0.494118 , 0.494118 }
+	shininess : 61
+	specular : { 0.121569 , 0.121569 , 0.121569 }
+}

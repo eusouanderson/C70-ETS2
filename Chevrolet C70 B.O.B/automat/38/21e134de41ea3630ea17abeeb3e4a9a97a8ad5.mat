@@ -1,0 +1,10 @@
+material : "eut2.dif.shadow.a.rfx" {
+	texture[0] : "/prefab/bridge/bridge_pl_de_border.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 4
+	specular : { 0.383819 , 0.383819 , 0.383819 }
+}

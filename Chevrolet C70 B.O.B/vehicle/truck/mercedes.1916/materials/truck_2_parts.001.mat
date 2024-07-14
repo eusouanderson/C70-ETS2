@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.shadow" {
+	texture[0] : "/vehicle/truck/mercedes.1916/textures/black.001.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0.0 , 0.0 }
+	diffuse : { 0.8 , 0.8 , 0.8 }
+	shininess : 100
+	specular : { 0.494118 , 0.494118 , 0.494118 }
+}

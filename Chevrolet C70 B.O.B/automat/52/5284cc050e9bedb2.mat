@@ -1,0 +1,16 @@
+material : "eut2.dif.spec.add.env.tsnmapuv.shadow" {
+	texture[0] : "/vehicle/truck/workstar/dump.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/truck/workstar/normals.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 1
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.163326 , 0.163326 , 0.163326 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 60
+	specular : { 0.582711 , 0.582711 , 0.582711 }
+}

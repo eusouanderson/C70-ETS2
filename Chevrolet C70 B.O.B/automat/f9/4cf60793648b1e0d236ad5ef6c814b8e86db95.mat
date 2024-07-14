@@ -1,0 +1,18 @@
+material : "eut2.truckpaint.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/mirror/mercedes_actros_2014/mirror_02_color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/paintjob/empty.tobj"
+	texture_name[1] : "texture_paintjob"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	aux[5] : { 1 , 0 , 0 }
+	aux[6] : { 0 , 1 , 0 }
+	aux[7] : { 0 , 0 , 1 }
+	aux[8] : { 1 , 1 , 1 }
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.073239 , 0.073239 , 0.073239 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 250
+	specular : { 1.5 , 1.5 , 1.5 }
+}

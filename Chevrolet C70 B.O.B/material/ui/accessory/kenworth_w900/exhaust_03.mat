@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "exhaust_03.tobj"
+	texture_name : "texture"
+}

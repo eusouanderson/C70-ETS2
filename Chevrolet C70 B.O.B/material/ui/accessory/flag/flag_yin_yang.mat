@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "flag_yin_yang.tobj"
+	texture_name : "texture"
+}

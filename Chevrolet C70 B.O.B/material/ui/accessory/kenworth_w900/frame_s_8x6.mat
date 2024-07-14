@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "frame_s_8x6.tobj"
+	texture_name : "texture"
+}

@@ -1,0 +1,180 @@
+SiiNunit
+{
+vehicle: .tdealer.c70
+{
+
+ accessories[]: .c70.data
+ accessories[]: .c70.chassis
+ accessories[]: .c70.cabin
+ accessories[]: .c70.interior
+ accessories[]: .c70.engine
+ accessories[]: .c70.transmission
+
+ accessories[]: .c70.head_light
+ accessories[]: .c70.ftire
+ accessories[]: .c70.fdisc
+ accessories[]: .c70.fhub
+ accessories[]: .c70.fnuts
+ accessories[]: .c70.fcover
+ accessories[]: .c70.rtire
+ accessories[]: .c70.rdisc
+ accessories[]: .c70.rhub
+ accessories[]: .c70.rnuts
+ accessories[]: .c70.rcover
+ accessories[]: .c70.rtire2
+ accessories[]: .c70.rdisc2
+ accessories[]: .c70.rhub2
+ accessories[]: .c70.rnuts2
+ accessories[]: .c70.rcover2
+ accessories[]: .c70.paint_job
+ accessories[]: .c70.mirror
+ accessories[]: .c70.swheel
+ accessories[]: .c70.trlr_cables
+
+}
+
+vehicle_accessory : .c70.data {
+
+ data_path: "/def/vehicle/truck/c.70/data.sii"
+}
+
+vehicle_accessory : .c70.chassis {
+
+ data_path: "/def/vehicle/truck/c.70/chassis/short1.sii"
+}
+
+vehicle_accessory : .c70.cabin {
+
+ data_path: "/def/vehicle/truck/c.70/cabin/megaspace.sii"
+}
+
+vehicle_accessory : .c70.interior {
+
+ data_path: "/def/vehicle/truck/c.70/interior/exclusive3.sii"
+}
+
+vehicle_accessory : .c70.engine {
+
+ data_path: "/def/vehicle/truck/c.70/engine/350.sii"
+}
+
+vehicle_accessory : .c70.transmission {
+
+ data_path: "/def/vehicle/truck/c.70/transmission/16_speed.sii"
+}
+
+vehicle_accessory : .c70.head_light {
+
+ data_path: "/def/vehicle/truck/c.70/head_light/standard.sii"
+}
+
+vehicle_paint_job_accessory : .c70.paint_job {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ base_color: (&3e4432ca, &3e4793de, &3e5b22d1)
+
+ data_path: "/def/vehicle/truck/c.70/paint_job/color4.sii"
+}
+
+vehicle_addon_accessory : .c70.mirror {
+ slot_name: 0
+ slot_hookup: 0
+
+ data_path: "/def/vehicle/truck/c.70/accessory/mirror/shape1.sii"
+}
+
+vehicle_addon_accessory : .c70.swheel {
+ data_path: "/def/vehicle/truck/c.70/accessory/steering_w/default.sii"
+}
+
+vehicle_wheel_accessory : .c70.ftire {
+ offset: 0
+
+ data_path: "/def/vehicle/f_tire/mack_tire_f.sii"
+}
+
+vehicle_wheel_accessory : .c70.fdisc {
+ offset: 0
+
+ data_path: "/def/vehicle/f_disc/mfront_disc.sii"
+}
+
+vehicle_wheel_accessory : .c70.fhub {
+ offset: 0
+
+ data_path: "/def/vehicle/f_hub/mfront_hub.sii"
+}
+
+vehicle_wheel_accessory : .c70.fnuts {
+ offset: 0
+
+ data_path: "/def/vehicle/f_nuts/mfront_nuts.sii"
+}
+vehicle_wheel_accessory : .c70.fcover{
+ offset: 0
+
+ data_path: "/def/vehicle/f_cover/mfront_hub_cover.sii"
+}
+
+vehicle_wheel_accessory : .c70.rtire {
+ offset: 0
+
+ data_path: "/def/vehicle/r_tire/mack_tire_r.sii"
+}
+
+vehicle_wheel_accessory : .c70.rdisc {
+ offset: 0
+
+ data_path: "/def/vehicle/r_disc/mrear_disc.sii"
+}
+
+vehicle_wheel_accessory : .c70.rhub {
+ offset: 0
+
+ data_path: "/def/vehicle/r_hub/mrear_hub.sii"
+}
+
+vehicle_wheel_accessory : .c70.rnuts {
+ offset: 0
+
+ data_path: "/def/vehicle/r_nuts/mrear_nuts.sii"
+}
+vehicle_wheel_accessory : .c70.rcover{
+	offset: 0
+	wear: 0
+	data_path: "/def/vehicle/r_cover/mrear_hub_cover.sii"
+}
+vehicle_wheel_accessory : .c70.rtire2 {
+ offset: 2
+
+ data_path: "/def/vehicle/r_tire/mack_tire_r.sii"
+}
+
+vehicle_wheel_accessory : .c70.rdisc2 {
+ offset: 2
+
+ data_path: "/def/vehicle/r_disc/mrear_disc.sii"
+}
+
+vehicle_wheel_accessory : .c70.rhub2 {
+ offset: 2
+
+ data_path: "/def/vehicle/r_hub/mrear_hub.sii"
+}
+
+vehicle_wheel_accessory : .c70.rnuts2 {
+ offset: 2
+
+ data_path: "/def/vehicle/r_nuts/mrear_nuts.sii"
+}
+vehicle_wheel_accessory : .c70.rcover2 {
+	offset: 2
+	wear: 0
+	data_path: "/def/vehicle/r_cover/mrear_hub_cover.sii"
+}
+
+vehicle_addon_accessory : .c70.trlr_cables {
+ data_path: "/def/vehicle/truck/c.70/accessory/trlr_cables/stock.sii"
+}
+}

@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.mult.dif.spec.a.rfx" {
+	texture[0] : "/prefab/farm/farm2.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/prefab/farm/shadow2.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 35
+	specular : { 1 , 1 , 1 }
+}

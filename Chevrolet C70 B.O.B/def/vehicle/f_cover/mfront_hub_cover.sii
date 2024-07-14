@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : rta1_cover.fcover
+{
+	name: "Chromized-RTA"
+	price: 100
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/cover/rta1/front_hub_cover.pmd"
+	icon: "cover/rta1_cover"
+	suitable_for[]: "rta1_tire.ftire"		
+}
+}

@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : shape04.c.70.exhaust
+{
+	name: "Plain Stacks"
+	price: 3760
+	unlock: 0
+	icon: "kenworth_w900/exhaust_04"
+	exterior_model: "/vehicle/truck/upgrade/exhaust/c70/exhaust04.pmd"
+
+
+	suitable_for[]: "short1_6x2_m.c.70.chassis"
+	suitable_for[]: "short2_6x2_m.c.70.chassis"
+	
+	suitable_for[]: "long1_6x2_m.c.70.chassis"
+	suitable_for[]: "long2_6x2_m.c.70.chassis"
+
+}
+}

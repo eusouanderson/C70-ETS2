@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.fade.dif.spec.rfx" {
+	texture[0] : "/material/rocks/rock_01_sc.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/rocks/rock_01_sc.tobj"
+	texture_name[1] : "texture_detail"
+	add_ambient : 0
+	aux[5] : { 20 , 50 , 0.7 , 5 }
+	diffuse : { 0.734513 , 0.734513 , 0.734513 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

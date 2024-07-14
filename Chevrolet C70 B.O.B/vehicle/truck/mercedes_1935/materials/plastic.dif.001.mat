@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.add.env.nofresnel" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/plastic.001.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 1
+	diffuse : { 0.35 , 0.35 , 0.35 }
+	env_factor : { 0.387412 , 0.387412 , 0.387412 }
+	reflection : 0
+	shininess : 60
+	specular : { 0.750196 , 0.750196 , 0.750196 }
+}

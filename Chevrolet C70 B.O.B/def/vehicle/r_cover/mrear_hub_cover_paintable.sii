@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : rta1_cover_p.rcover
+{
+	name: "Painted-RTA"
+	price: 100
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/cover/rta1/rear_hub_cover_paintable.pmd"
+	icon: "cover/rta1_cover_p"
+	paintable: true
+	suitable_for[]: "rta1_tire.rtire"		
+}
+}

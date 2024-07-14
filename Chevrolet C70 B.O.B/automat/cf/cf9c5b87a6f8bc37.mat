@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.a.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/curtains/tassel.dlc_toys.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 3
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 2
+	specular : { 0.00660454 , 0.00660454 , 0.00660454 }
+	queue_bias : 1
+}

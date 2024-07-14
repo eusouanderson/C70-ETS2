@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.c.70.grade
+{
+	name: "@@Grade Pintável@@"
+	price: 800
+	unlock: 0
+	icon: "acessoriogotergmgg"
+	exterior_model: "/vehicle/truck/upgrade/grade/grade1.pmd"
+}
+}

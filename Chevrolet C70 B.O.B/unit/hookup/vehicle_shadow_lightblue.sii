@@ -1,0 +1,18 @@
+SiiNunit
+{
+flare_vehicle: flare.vehicle.shadow.lightblue
+{
+	dir_type: wide
+	light_type: brake
+	model: .flare
+	
+	diffuse_color: (0.3506, 0.4136, 1)
+	range: 1.70
+	inner_angle: 20.0
+	outer_angle: 120.0
+	type: spot
+	forward_distance: false
+	
+	model: "/model/flare/luzint.pmd"
+}
+}

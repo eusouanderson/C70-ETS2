@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_retro.freightliner.cascadia2019.steering_w
+{
+	name: "Retro"
+	price: 320
+	unlock: 0
+	icon: "sci/retro"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/retro.pmd"
+
+}
+}

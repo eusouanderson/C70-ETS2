@@ -1,0 +1,11 @@
+material : "eut2.dif" {
+	texture[0] : "/model/blender_export/textures/hella.001.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/blender_export/textures/cromex.000.tobj"
+	texture_name[1] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0.0 , 0.0 }
+	diffuse : { 0.494118 , 0.494118 , 0.494118 }
+	shininess : 61
+	specular : { 0.121569 , 0.121569 , 0.121569 }
+}

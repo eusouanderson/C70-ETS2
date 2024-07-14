@@ -1,0 +1,5 @@
+material : "eut2.flare" {
+	texture[0] : "shadow.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

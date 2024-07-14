@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape7.c.70.luz_interior
+{
+	name: "Interior Yellow Lights"
+	price: 100
+	unlock: 0
+	icon: "ttmods"
+	exterior_model: "/vehicle/truck/upgrade/luz_interior/yellowl.pmd"
+	
+}
+}

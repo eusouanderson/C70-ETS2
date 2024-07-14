@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "basketball_ball_default.tobj"
+	texture_name : "texture"
+}

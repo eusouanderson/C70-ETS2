@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_wheel_data : rta1_tire.ftire
+{
+	name: "Continental-RTA"
+	price: 1000
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/tire/rta1/front.pmd"
+	icon: "continental"
+
+	roll_resistance: 6.5
+	wet_grip: 0.9
+	noise_volume: 75
+
+}
+}

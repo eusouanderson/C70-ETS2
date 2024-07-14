@@ -1,0 +1,4 @@
+material : "eut2.dif.spec" {
+	texture[0] : "/vehicle/truck/mercedes.1916/textures/light.004.tobj"
+	texture_name[0] : "texture_base"
+}

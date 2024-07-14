@@ -1,0 +1,9 @@
+material : "eut2.dif.fx" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/tryba.000.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0.0 , 0.0 }
+	diffuse : { 1.0 , 1.0 , 1.0 }
+	shininess : 24
+	specular : { 0.0 , 0.0 , 0.0 }
+}

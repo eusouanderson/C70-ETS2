@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "purse.dlc_toys.tobj"
+	texture_name : "texture"
+}

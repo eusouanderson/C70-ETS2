@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_burl_c.freightliner.cascadia2019.steering_w
+{
+	name: "Traveler - Carbon Fiber"
+	price: 345
+	unlock: 0
+	icon: "sci/burl_carbon"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/burl_carbon.pmd"
+
+}
+}

@@ -1,0 +1,6 @@
+material : "eut2.shadowmap.rfx" {
+	texture[0] : "/prefab/truck_dealer/shadowmap.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+	substance : "road_snow"
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_racer.freightliner.cascadia2019.steering_w
+{
+	name: "Racer Mahogany"
+	price: 395
+	unlock: 0
+	icon: "sci/racer"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/racer.pmd"
+
+}
+}

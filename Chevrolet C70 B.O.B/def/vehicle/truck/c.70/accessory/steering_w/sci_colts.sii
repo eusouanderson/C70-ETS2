@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_colts.freightliner.cascadia2019.steering_w
+{
+	name: "Colts"
+	price: 395
+	unlock: 0
+	icon: "sci/colts"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/colts.pmd"
+
+}
+}

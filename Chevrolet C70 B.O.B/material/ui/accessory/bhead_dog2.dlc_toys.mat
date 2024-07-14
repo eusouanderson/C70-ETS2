@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "bhead_dog2.dlc_toys.tobj"
+	texture_name : "texture"
+}

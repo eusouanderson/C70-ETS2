@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.nofresnel.tsnmap" {
+	texture[0] : "/vehicle/truck/kenworth_w900/w900_chrome_clr.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/kenworth_w900/w900_chrome_nm.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	diffuse : { 0 , 0 , 0 }
+	specular : { 0.67451 , 0.337255 , 0.0941176 }
+	shininess : 250
+	add_ambient : 0
+	env_factor : { 0.477626 , 0.477626 , 0.477626 }
+
+}

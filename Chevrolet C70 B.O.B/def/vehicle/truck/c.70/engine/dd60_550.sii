@@ -1,0 +1,38 @@
+SiiNunit
+{
+accessory_engine_data : dd60_550.c.70.engine
+{
+	name: "Detroit Diesel SERIES 60 550"
+	price: 12700
+	unlock: 0
+	info[]: "650 @@HP@@"
+	info[]: "1850 @@FT/LB@@"
+	info[]: "1@@dg@@000-1@@dg@@500 @@rpm@@"
+	icon: "eng_dd60"
+	
+	torque: 12508
+	
+	volume: 14.0
+
+	torque_curve[]: (300, 0.6)
+	torque_curve[]: (500, 0.8)
+	torque_curve[]: (900, 1)
+	torque_curve[]: (1200, 1)
+	torque_curve[]: (1400, 1)
+	torque_curve[]: (1600, 0.9)
+	torque_curve[]: (4500, 0.7)
+
+	rpm_idle: 650
+	rpm_limit: 4000
+	rpm_range_low_gear: (900, 1600)
+	rpm_range_high_gear: (1000, 6508)
+	rpm_range_power: (1200, 6508)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 4
+
+@include "sound_dd_60.sui"
+}
+
+}

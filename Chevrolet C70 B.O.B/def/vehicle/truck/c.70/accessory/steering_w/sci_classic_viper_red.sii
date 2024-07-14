@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_cl_ovr.freightliner.cascadia2019.steering_w
+{
+	name: "Classic Onyx Viper Red"
+	price: 170
+	unlock: 0
+	icon: "sci/viper_red"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/viper_red.pmd"
+
+}
+}

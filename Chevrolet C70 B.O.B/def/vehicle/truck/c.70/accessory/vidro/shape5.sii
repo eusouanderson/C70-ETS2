@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape5.c.70.vidro
+{
+	name: "Sufilm 05"
+	price: 1590
+	unlock: 0
+	icon: "b_grill_01"
+	exterior_model: "/vehicle/truck/upgrade/vidro/vidro5.pmd"
+}
+}

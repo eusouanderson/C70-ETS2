@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "scarf_kotr.dlc_toys.tobj"
+	texture_name : "texture"
+}

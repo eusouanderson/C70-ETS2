@@ -1,0 +1,11 @@
+material : "eut2.building.add.env.day.rfx" {
+	texture[0] : "/model/panorama/wien/wien.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/generic_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.873391 , 0.873391 , 0.873391 }
+	shininess : 55
+	specular : { 0.890898 , 0.890898 , 0.890898 }
+}

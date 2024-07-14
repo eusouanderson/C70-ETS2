@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_overlnd.freightliner.cascadia2019.steering_w
+{
+	name: "Overland Sport 3"
+	price: 320
+	unlock: 0
+	icon: "sci/overland"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/overland.pmd"
+
+}
+}

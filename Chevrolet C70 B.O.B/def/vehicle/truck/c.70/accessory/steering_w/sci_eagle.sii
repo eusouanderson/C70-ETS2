@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_eagle.freightliner.cascadia2019.steering_w
+{
+	name: "Eagle"
+	price: 320
+	unlock: 0
+	icon: "sci/eagle"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/eagle.pmd"
+
+}
+}

@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "ball_soccer.dlc_toys.tobj"
+	texture_name : "texture"
+}

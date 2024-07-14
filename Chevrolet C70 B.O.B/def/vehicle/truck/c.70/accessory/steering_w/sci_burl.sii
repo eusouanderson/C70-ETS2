@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_burl.freightliner.cascadia2019.steering_w
+{
+	name: "Traveler Burl"
+	price: 345
+	unlock: 0
+	icon: "sci/burl"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/burl.pmd"
+
+}
+}

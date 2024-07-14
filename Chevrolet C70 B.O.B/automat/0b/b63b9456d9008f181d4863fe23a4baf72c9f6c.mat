@@ -1,0 +1,5 @@
+material : "eut2.unlit.vcol.tex.rfx" {
+	texture[0] : "/prefab/bus_station/base_02/bus_station_02.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

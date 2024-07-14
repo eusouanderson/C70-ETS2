@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : exclusive.c.70.steering_w
+{
+	name: "International Diamond"
+	price: 360
+	unlock: 0
+	icon: "inter"
+
+	interior_model: "/vehicle/truck/upgrade/steering_w/steering_w_lux.pmd"
+}
+}

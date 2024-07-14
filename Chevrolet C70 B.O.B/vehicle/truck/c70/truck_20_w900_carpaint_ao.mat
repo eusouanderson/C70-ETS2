@@ -1,0 +1,14 @@
+material : "eut2.truckpaint.tsnmap.altuv" {
+	texture[0] : "/vehicle/truck/kenworth_w900/w900_carpaint_ao.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/kenworth_w900/w900_carpaint_nm.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	diffuse : { 0.807843 , 0.807843 , 0.807843 }
+	specular : { 0.0980392 , 0.0980392 , 0.0980392 }
+	shininess : 250
+	add_ambient : 0
+	env_factor : { 0.0190112 , 0.0190112 , 0.0190112 }
+
+}

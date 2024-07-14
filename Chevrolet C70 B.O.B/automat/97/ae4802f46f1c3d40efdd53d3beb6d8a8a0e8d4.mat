@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight.rfx" {
+	texture[0] : "/vehicle/truck/scania_rcab_2009/interior/bed_fabric_beige_2.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.603827 , 0.603827 , 0.603827 }
+	reflection : 0
+	shininess : 2
+	specular : { 0.0568583 , 0.0568583 , 0.0568583 }
+}

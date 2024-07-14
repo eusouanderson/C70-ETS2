@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "delivery.tobj"
+	texture_name : "texture"
+}

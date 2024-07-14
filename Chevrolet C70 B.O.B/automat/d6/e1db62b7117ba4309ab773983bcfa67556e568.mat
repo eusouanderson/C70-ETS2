@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.mult.dif.spec.rfx" {
+	texture[0] : "/model/containers/containers.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/prefab/sawmill/shadow_2.tobj"
+	texture_name[1] : "texture_mult"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 64
+	specular : { 0.0761335 , 0.0761335 , 0.0761335 }
+}

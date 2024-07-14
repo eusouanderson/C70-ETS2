@@ -1,0 +1,35 @@
+﻿SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "dashboard" for "/ui/template/dashboard.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+
+#
+# Kenworth W900
+#
+ui::text_template : txt.kenworth.text0 {
+	name: "zDB  Kenworth Plain text"
+	text: "<color value=cc88ff22><font face=/font/big.font xscale=6.1 yscale=6.1>%0</font>"
+}
+ui::text_template : txt.kenworth.val_num {
+	name: "zDB  Kenworth Numbers with units"
+	text: "<color value=cc88ff22><align hstyle=right><font face=/font/big.font xscale=6.1 yscale=6.1>%0</font><offset vshift=32><font face=/font/big.font xscale=4 yscale=4> %1</font></align>"
+}
+ui::text_template : txt.kenworth.temp {
+	name: "zDB  Kenworth Temperature with units"
+	text: "<color value=cc88ff22><align hstyle=right><font face=/font/big.font xscale=6.1 yscale=6.1>%0 °%1</font></align>"
+}
+ui::text_template : txt.kenworth.num {
+	name: "zDB  Kenworth Numbers"
+	text: "<color value=cc88ff22><align hstyle=right><font face=/font/big.font xscale=6.1 yscale=6.1>%0</font></align>"
+}
+ui::text_template : txt.kenworth.test_wrn {
+	name: "zDB  Kenworth Warning text"
+	text: "<color value=cc0000ff><font face=/font/big.font xscale=6.1 yscale=6.1>%0</font>"
+}
+
+}

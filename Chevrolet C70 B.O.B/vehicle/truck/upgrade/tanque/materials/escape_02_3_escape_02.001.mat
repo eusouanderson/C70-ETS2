@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.add.env.shadow" {
+	texture[0] : "/vehicle/truck/upgrade/tanque/textures/sola.001.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.376471 , 0.376471 , 0.376471 }
+	env_factor : { 0.09 , 0.09 , 0.09 }
+	shininess : 30
+	specular : { 0.0 , 0.0 , 0.0 }
+}

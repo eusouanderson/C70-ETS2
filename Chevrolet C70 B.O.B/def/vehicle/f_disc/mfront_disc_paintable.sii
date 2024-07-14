@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : rta1_disc_p.fdisc
+{
+	name: "Painted-RTA"
+	price: 200
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/disc/rta1/front_disc_paintable.pmd"
+	icon: "disc/rta1_disc_p"
+	paintable: true
+	suitable_for[]: "rta1_tire.ftire"	
+}
+}

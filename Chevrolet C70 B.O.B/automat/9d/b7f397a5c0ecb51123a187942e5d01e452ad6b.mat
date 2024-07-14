@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.nofresnel.rfx" {
+	texture[0] : "/vehicle/truck/man_tgx/interior/plastic_gray.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/man_tgx/interior/env2.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.318547 , 0.318547 , 0.318547 }
+	env_factor : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.0331048 , 0.0331048 , 0.0331048 }
+}

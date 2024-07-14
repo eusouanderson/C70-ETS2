@@ -1,0 +1,7 @@
+# Configuration of the engine sounds for the specific truck.
+	sounds:5
+	sounds[]: "engine|/sound/truck/detroit_60s.bank#engine/engine"
+	sounds[]: "exhaust|/sound/truck/detroit_60s.bank#engine/exhaust"
+	sounds[]: "start_bad|/sound/truck/detroit_60s.bank#engine/start_bad"
+	sounds[]: "turbo|/sound/truck/detroit_60s.bank#engine/turbo"
+	sounds[]: "remote|/sound/truck/detroit_60s_rm.bank#remote/engine"

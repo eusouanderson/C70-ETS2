@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.weight.add.env" {
+	texture[0] : "/vehicle/wheel/rta1/metal.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	diffuse : { 0.203922 , 0.203922 , 0.203922 }
+	specular : { 0.203922 , 0.203922 , 0.203922 }
+	shininess : 5
+	add_ambient : 0
+	env_factor : { 0.42416 , 0.42416 , 0.42416 }
+
+}

@@ -1,0 +1,37 @@
+SiiNunit
+{
+accessory_engine_data : dd60_450.c.70.engine
+{
+	name: "Detroit Diesel SERIES 60 450"
+	price: 10700
+	unlock: 0
+	info[]: "450 @@hp@@ (347@@kw@@)"
+	info[]: "1@@dg@@550 @@lb_ft@@ (2101@@nm@@)"
+	info[]: "1@@dg@@200-1@@dg@@420 @@rpm@@"
+	icon: "eng_dd60"
+	
+	torque: 12300
+	
+	volume: 12.0
+
+	torque_curve[]: (300, 0.5)
+	torque_curve[]: (500, 0.7)
+	torque_curve[]: (900, 1)
+	torque_curve[]: (1100, 1)
+	torque_curve[]: (1300, 1)
+	torque_curve[]: (1600, 0.9)
+	torque_curve[]: (2000, 0.7)
+	torque_curve[]: (4300, 0.45)
+	
+	rpm_idle: 650
+	rpm_limit: 2500
+	rpm_range_low_gear: (900, 1900)
+	rpm_range_high_gear: (1000, 1700)
+	rpm_range_power: (1200, 6300)
+
+	engine_brake_positions: 4
+	engine_brake_downshift: 1
+	
+@include "sound_dd_60.sui"	
+}
+}

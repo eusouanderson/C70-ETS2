@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.shadow.rfx" {
+	texture[0] : "/vehicle/trailer_eu/cement_cistern/cistern_plain.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.999988 , 0.999988 , 0.999988 }
+	reflection : 0
+	shadow_bias : 0
+	shininess : 45
+	specular : { 0.0331048 , 0.0331048 , 0.0331048 }
+}

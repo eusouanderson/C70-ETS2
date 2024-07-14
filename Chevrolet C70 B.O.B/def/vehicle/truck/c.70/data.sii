@@ -1,0 +1,33 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.c.70
+{
+	info[]: "@@Chevrolet@@"
+	info[]: "@@C70@@"
+
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.volvo.fh16_09
+	bumper_camera: camera.bumper.basic
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	debug_camera: camera.debug
+
+	fallback[]: "chassis|short1.sii"
+	fallback[]: "cabin|megaspace.sii"
+	fallback[]: "interior|exclusive3.sii"
+	fallback[]: "engine|350.sii"
+	fallback[]: "transmission|16_speed.sii"
+	fallback[]: "f_rim|ng1632.sii"
+	fallback[]: "f_tire|ng1632.sii"
+	fallback[]: "r_rim|ng1632.sii"
+	fallback[]: "r_tire|ng1632.sii"
+	fallback[]: "paint_job|color3.sii"
+	fallback[]: "head_light|standard.sii"
+
+	require[]: mirror
+
+}
+}

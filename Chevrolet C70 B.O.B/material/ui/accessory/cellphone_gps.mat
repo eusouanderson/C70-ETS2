@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "cellphone_gps.tobj"
+	texture_name : "texture"
+}

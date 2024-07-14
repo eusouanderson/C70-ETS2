@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "flag_uk_ni.tobj"
+	texture_name : "texture"
+}

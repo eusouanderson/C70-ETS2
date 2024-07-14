@@ -1,0 +1,46 @@
+SiiNunit
+{
+accessory_chassis_data : short1.c.70.chassis
+{
+	name: "Short 6x4 150@@gal@@"
+	price: 41300
+	unlock: 0
+	info[]: "6x4"
+	info[]: "150/0 @@gal@@"
+	icon: "kenworth_w900/frame_s1"
+
+	model: "/vehicle/truck/c70/truck.pmd"
+	collision: "/vehicle/truck/c70/truck.pmc"
+	variant: chs_short1
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/kenworth_w900/shadow_s.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/kenworth_w900/ui_shadow_short.pmd"
+
+	tank_size: 568
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: true
+	powered_axle[]: true
+
+	kerb_weight[]: 4645	# 10220lb
+	kerb_weight[]: 1805	# 3970lb
+	kerb_weight[]: 1805	# 3970lb
+
+
+	defaults[]: "/def/vehicle/truck/c.70/accessory/trlr_cables/stock.sii"
+
+
+
+@include "sound.sui"
+}
+}

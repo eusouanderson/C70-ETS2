@@ -1,0 +1,11 @@
+material : "eut2.glass.rfx" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/glass_ex.001.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1.61245 , 1.61245 , 1.61245 }
+	shininess : 95
+	specular : { 0.214041 , 0.214041 , 0.214041 }
+	tint : { 0.563945 , 0.603827 , 0.58529 }
+	tint_opacity : -0.01
+}

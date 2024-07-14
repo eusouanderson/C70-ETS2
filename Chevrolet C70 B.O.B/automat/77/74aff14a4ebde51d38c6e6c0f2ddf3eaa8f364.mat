@@ -1,0 +1,9 @@
+material : "eut2.building.night.rfx" {
+	texture[0] : "/prefab/quarry/house002.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : 0
+	diffuse : { 1 , 1 , 1 }
+	shininess : 32
+	specular : { 0.0196066 , 0.0196066 , 0.0196066 }
+}

@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "rec_light_chrm.tobj"
+	texture_name : "texture"
+}

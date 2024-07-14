@@ -1,0 +1,8 @@
+material : "eut2.light.tex.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toystand/compass_needle.dlc_toys.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : 0
+	diffuse : { 0.999999 , 0.999999 , 0.999999 }
+	shininess : 0
+	specular : { 0 , 0 , 0 }
+}

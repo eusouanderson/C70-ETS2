@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "pillow_flame.tobj"
+	texture_name : "texture"
+}

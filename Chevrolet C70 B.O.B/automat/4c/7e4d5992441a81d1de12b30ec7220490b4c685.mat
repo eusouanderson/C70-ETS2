@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight.rfx" {
+	texture[0] : "/vehicle/truck/scania_rcab_2009/interior/leather_black.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.522521 , 0.522521 , 0.522521 }
+	reflection : 0
+	shininess : 5
+	specular : { 0.0972572 , 0.0972572 , 0.0972572 }
+}

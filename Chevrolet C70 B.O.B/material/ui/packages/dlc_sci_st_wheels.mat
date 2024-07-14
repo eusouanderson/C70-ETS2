@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "dlc_sci_st_wheels.tobj"
+	texture_name : "texture"
+}

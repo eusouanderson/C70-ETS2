@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "transmission_eaton_endurant.tobj" 
+	texture_name : "texture" 
+} 

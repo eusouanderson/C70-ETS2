@@ -1,0 +1,39 @@
+SiiNunit
+{
+accessory_engine_data : dd60_400.c.70.engine
+{
+	name: "Detroit Diesel SERIES 60 400"
+	price: 9100
+	unlock: 0
+	info[]: "400 @@HP@@"
+	info[]: "1650 @@FT/LB@@"
+	info[]: "1@@dg@@000-1@@dg@@500 @@rpm@@"
+	icon: "eng_dd60"
+	
+	torque: 12237
+	
+	volume: 11.7
+
+	torque_curve[]: (300, 0.5)
+	torque_curve[]: (500, 0.75)
+	torque_curve[]: (1000, 1)
+	torque_curve[]: (1400, 1)
+	torque_curve[]: (1500, 1)
+	torque_curve[]: (1700, 0.8)
+	torque_curve[]: (4200, 0.6)
+
+	rpm_idle: 650
+	rpm_limit: 2000
+	rpm_range_low_gear: (800, 1600)
+	rpm_range_high_gear: (900, 1500)
+	rpm_range_power: (1000, 6237)
+
+	engine_brake: 2.0
+	engine_brake_downshift: 0
+	engine_brake_positions: 3
+
+@include "sound_dd_60.sui"
+}
+}
+
+

@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.nofresnel.tsnmapuv" {
+	texture[0] : "/vehicle/truck/intnational_lonestar/detail.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/truck/intnational_lonestar/nmap.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.522522 , 0.522522 , 0.522522 }
+	reflection : 0
+	shininess : 25
+	specular : { 0.522522 , 0.522522 , 0.522522 }
+}

@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.nofresnel.rfx" {
+	texture[0] : "/model/et2_logo/et2_logo_intro.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model/et2_logo/et2_logo_cubemap.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 60
+	specular : { 0.142323 , 0.0769805 , 0 }
+}

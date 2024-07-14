@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/mirror/mercedes_actros_2009/mirror_02.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.241792 , 0.241792 , 0.241792 }
+	reflection : 0
+	shininess : 40
+	specular : { 0.332733 , 0.332733 , 0.332733 }
+}

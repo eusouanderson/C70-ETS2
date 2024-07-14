@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.a.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toyseat/map.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.330053 , 0.330053 , 0.330053 }
+	reflection : 0
+	shininess : 80
+	specular : { 0.0200689 , 0.0200689 , 0.0200689 }
+	queue_bias : 1
+}

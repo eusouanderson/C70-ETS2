@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.oclu.weight.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/share/textures/metal/chrome_dark.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/steering_w/sci/eagle_n.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/vehicle/truck/upgrade/steering_w/sci/eagle_ao.tobj"
+	texture_name[2] : "texture_oclu"
+	texture[3] : "/material/environment/interior_static/interior_static.tobj"
+	texture_name[3] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.0331048 , 0.0331048 , 0.0331048 }
+	env_factor : { 0.0698705 , 0.0698705 , 0.0698705 }
+	fresnel : { 0.4 , 0.8 }
+	reflection : 0
+	shininess : 10
+	specular : { 0.763741 , 0.763741 , 0.763741 }
+}

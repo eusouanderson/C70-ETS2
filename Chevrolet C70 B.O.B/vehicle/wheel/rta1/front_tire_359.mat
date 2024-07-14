@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.tsnmapuv" {
+	texture[0] : "/vehicle/wheel/rta1/front_tire_359.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/wheel/rta1/rear_tire_359_nn.tobj"
+	texture_name[1] : "texture_nmap"
+	diffuse : { 0.576471 , 0.576471 , 0.576471 }
+	specular : { 0.054902 , 0.054902 , 0.054902 }
+	shininess : 40
+
+}

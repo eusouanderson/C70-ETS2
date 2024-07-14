@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.shadow.rfx" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/partespretas1.003.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0 , 0 }
+	diffuse : { 0.494119 , 0.494119 , 0.494119 }
+	shininess : 60
+	specular : { 1 , 1 , 1 }
+}

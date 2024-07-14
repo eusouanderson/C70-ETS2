@@ -1,0 +1,5 @@
+material : "eut2.flare.rfx" {
+	texture[0] : "/model/flare/flare.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 0.170154 , 0.00510317 }
+}

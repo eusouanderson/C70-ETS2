@@ -1,0 +1,13 @@
+material : "eut2.dif.spec.add.env.rfx" {
+	texture[0] : "/vehicle/share/textures/plastic/plastic_base.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/soft_reflection/soft_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.0159284 , 0.0159284 , 0.0159284 }
+	fresnel : { 0.5 , 1 }
+	reflection : 0
+	shininess : 18
+	specular : { 1 , 1 , 1 }
+}

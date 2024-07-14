@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_cl.freightliner.cascadia2019.steering_w
+{
+	name: "Classic Truck Color"
+	price: 170
+	unlock: 0
+	icon: "sci/classic"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/classic.pmd"
+
+}
+}

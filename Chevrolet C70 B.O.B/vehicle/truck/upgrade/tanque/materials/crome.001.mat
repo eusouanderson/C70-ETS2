@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.add.env.nofresnel" {
+	texture[0] : "/vehicle/truck/upgrade/tanque/textures/crome.005.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.494118 , 0.494118 , 0.494118 }
+	env_factor : { 0.780392 , 0.780392 , 0.780392 }
+	shininess : 10
+	specular : { 1.0 , 1.0 , 1.0 }
+}

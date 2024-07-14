@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_excal.freightliner.cascadia2019.steering_w
+{
+	name: "Excalibur"
+	price: 395
+	unlock: 0
+	icon: "sci/excalibur"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/excalibur.pmd"
+
+}
+}

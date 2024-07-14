@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.add.env" {
+	texture[0] : "/vehicle/truck/mercedes.1916/textures/cromex.001.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.0 , 0.0 , 0.0 }
+	env_factor : { 1.0 , 1.0 , 1.0 }
+	shininess : 4
+	specular : { 1.0 , 1.0 , 1.0 }
+}

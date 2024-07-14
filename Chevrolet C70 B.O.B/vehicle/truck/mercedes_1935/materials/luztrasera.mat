@@ -1,0 +1,11 @@
+material : "eut2.lamp.add.env.fx" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/luztrasera.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/mercedes_1935/textures/w900_lamps_mask.luztrasera.tobj"
+	texture_name[1] : "texture_mask"
+	diffuse : { 0.458824 , 0.458824 , 0.458824 }
+	env_factor : { 1.0 , 1.0 , 1.0 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 100
+	specular : { 1.0 , 1.0 , 1.0 }
+}

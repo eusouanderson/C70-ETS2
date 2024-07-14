@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "cornflakes.tobj"
+	texture_name : "texture"
+}

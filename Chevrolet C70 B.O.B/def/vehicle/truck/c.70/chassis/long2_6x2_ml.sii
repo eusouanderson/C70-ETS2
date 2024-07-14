@@ -1,0 +1,50 @@
+SiiNunit
+{
+accessory_chassis_data : long2_6x2_m.c.70.chassis
+{
+	name: "Long 6x2 @@midlift@@ 300@@gal@@"
+	price: 29750
+	unlock: 0
+	info[]: "6x2 @@midlift@@"
+	info[]: "150/150 @@gal@@"
+	icon: "kenworth_w900/frame_l2"
+
+	model: "/vehicle/truck/c70/truck.pmd"
+	collision: "/vehicle/truck/c70/truck.pmc"
+	variant: chs_lift_lg2
+	look: default
+
+	extended_shadow_texture: "/vehicle/truck/kenworth_w900/shadow.tobj"
+	extended_shadow_intensity: 1.0
+	extended_shadow_fadeout_start: 10
+	extended_shadow_fadeout_length: 0
+	ui_shadow: "/vehicle/truck/kenworth_w900/ui_shadow_long.pmd"
+
+	tank_size: 1136
+	air_tank_pressure: 8.5
+	nominal_voltage: 12
+
+	residual_travel[]: 0.1
+	residual_travel[]: 0.088
+	residual_travel[]: 0.088
+
+	powered_axle[]: false
+	powered_axle[]: true
+	powered_axle[]: false
+
+	liftable_axle[]: false
+	liftable_axle[]: false
+	liftable_axle[]: true
+
+	kerb_weight[]: 5202	# 11445lb
+	kerb_weight[]: 2027	# 4460lb
+	kerb_weight[]: 1627	# 3590lb
+
+
+	defaults[]: "/def/vehicle/truck/c.70/accessory/trlr_cables/stock_bdf.sii"
+
+
+
+@include "sound.sui"
+}
+}

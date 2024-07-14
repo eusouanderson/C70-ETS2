@@ -1,0 +1,9 @@
+material : "eut2.dif.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toyglass/pennant_big_scs.dlc_toys.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 30
+	specular : { 0.0197286 , 0.0197286 , 0.0197286 }
+}

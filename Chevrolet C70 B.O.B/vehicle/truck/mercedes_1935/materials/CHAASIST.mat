@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.add.env.shadow.fx" {
+	texture[0] : "/model/blender_export/textures/south.gamer.ferro.001.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.294117 , 0.294117 , 0.294117 }
+	env_factor : { 0.0399999 , 0.0399999 , 0.0399999 }
+	shininess : 10
+	specular : { 1.0 , 1.0 , 1.0 }
+}

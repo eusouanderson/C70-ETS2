@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_sky_blk.freightliner.cascadia2019.steering_w
+{
+	name: "Sky Black"
+	price: 230
+	unlock: 0
+	icon: "sci/sky_black"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/sky_black.pmd"
+
+}
+}

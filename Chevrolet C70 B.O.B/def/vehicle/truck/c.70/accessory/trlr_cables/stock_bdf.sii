@@ -1,0 +1,103 @@
+SiiNunit
+{
+accessory_addon_trailer_cables_data : stock_bdf.c.70.trlr_cables
+{
+
+	exterior_model: "/vehicle/truck/upgrade/trlr_cables/trlr_cables2.pmd"
+
+	suitable_for[]: "long1_6x2_m.c.70.chassis"
+      suitable_for[]: "long2_6x2_m.c.70.chassis"
+      suitable_for[]: "short1_6x2_m.c.70.chassis"
+      suitable_for[]: "short2_6x2_m.c.70.chassis"
+      conflict_with[]: "long1.c.70.chassis"
+      conflict_with[]: "long1_6x2.c.70.chassis"
+      conflict_with[]: "long2.c.70.chassis"
+      conflict_with[]: "long2_6x2.c.70.chassis"
+      conflict_with[]: "short1.c.70.chassis"
+      conflict_with[]: "short1_6x2.c.70.chassis"
+      conflict_with[]: "short2.c.70.chassis"
+      conflict_with[]: "short2_6x2.c.70.chassis"
+
+	cables[]: .air_cable_y
+	cables[]: .air_cable_r
+	cables[]: .ele_cable_w
+	cables[]: .ele_cable_b
+}
+
+trailer_cable_data : .air_cable_y
+{
+	locator_prefix: air_cable_y       // Name of the locator (in vehicle and trailer) where cable will be "connected".
+	rest_locator_prefix: rst_cable_y  // Name of the locator (in vehicle only) where cable will be put to rest, when not connected to the trailer. 
+                                          // If not present in vehicle, cable is not visible when disconnected from trailer.
+
+	vehicle_plug_model: "/vehicle/share/models/cables_connectors/air_socket_y.pmd"    // Plug model for the cable end on vehicle side.
+	vehicle_plug_model_offset: (0.0, 0.0, -0.11)                              // Visual offset of cable start in space of vehicle plug model.
+	trailer_plug_model: "/vehicle/share/models/cables_connectors/air_plug_y.pmd"  // Plug model for the cable end on trailer side.
+	trailer_plug_model_offset: (-0.0205, 0.0, -0.121)                                   // Visual offset of cable end in space of trailer plug model.
+
+	ring_count: 25      // Number of rings in spiral of cable.
+	ring_resolution: 30  // Resolution of the ring, how many sides each ring has.
+	diameter: 0.1       // Diameter of spiral.
+	width: 0.0175       // Width of the cable itself.
+
+	material: "/material/ropes/cable_white.mat"  // Material used for cable rendering.
+	color: (0.0, 0.0, 0.0)                     // Vertex color that will be used for the cable. Note that this color is in linear colorspace.
+}
+
+trailer_cable_data : .air_cable_r
+{
+	locator_prefix: air_cable_r
+	rest_locator_prefix: rst_cable_r
+
+	vehicle_plug_model: "/vehicle/share/models/cables_connectors/air_socket_r.pmd"
+	vehicle_plug_model_offset: (0.0, 0.0, -0.11)
+	trailer_plug_model: "/vehicle/share/models/cables_connectors/air_plug_r.pmd"
+	trailer_plug_model_offset: (-0.0205, 0.0, -0.121)
+
+	ring_count: 25      // Number of rings in spiral of cable.
+	ring_resolution: 30  // Resolution of the ring, how many sides each ring has.
+	diameter: 0.1       // Diameter of spiral.
+	width: 0.0175       // Width of the cable itself.
+
+	material: "/material/ropes/cable_white.mat"  // Material used for cable rendering.
+	color: (0.0, 0.0, 0.0)                     // Vertex color that will be used for the cable. Note that this color is in linear colorspace.
+}
+
+trailer_cable_data : .ele_cable_w
+{
+	locator_prefix: ele_cable_w
+	rest_locator_prefix: rst_cable_w
+
+	trailer_plug_model: "/vehicle/share/models/cables_connectors/electric_plug.pmd"
+	trailer_plug_model_offset: (0.0, 0.0, -0.134)
+	vehicle_plug_model: "/vehicle/share/models/cables_connectors/electric_plug.pmd"
+	vehicle_plug_model_offset: (0.0, 0.0, -0.134)
+
+	ring_count: 25      // Number of rings in spiral of cable.
+	ring_resolution: 30  // Resolution of the ring, how many sides each ring has.
+	diameter: 0.07       // Diameter of spiral.
+	width: 0.015       // Width of the cable itself.
+
+	material: "/material/ropes/cable_white.mat"  // Material used for cable rendering.
+	color: (0.0, 0.0, 0.0)                     // Vertex color that will be used for the cable. Note that this color is in linear colorspace.
+}
+
+trailer_cable_data : .ele_cable_b
+{
+	locator_prefix: ele_cable_b
+	rest_locator_prefix: rst_cable_b
+
+	trailer_plug_model: "/vehicle/share/models/cables_connectors/electric_plug.pmd"
+	trailer_plug_model_offset: (0.0, 0.0, -0.134)
+	vehicle_plug_model: "/vehicle/share/models/cables_connectors/electric_plug.pmd"
+	vehicle_plug_model_offset: (0.0, 0.0, -0.134)
+
+	ring_count: 25      // Number of rings in spiral of cable.
+	ring_resolution: 30  // Resolution of the ring, how many sides each ring has.
+	diameter: 0.07       // Diameter of spiral.
+	width: 0.015       // Width of the cable itself.
+
+	material: "/material/ropes/cable_white.mat"  // Material used for cable rendering.
+	color: (0.0, 0.0, 0.0)                     // Vertex color that will be used for the cable. Note that this color is in linear colorspace.
+}
+}

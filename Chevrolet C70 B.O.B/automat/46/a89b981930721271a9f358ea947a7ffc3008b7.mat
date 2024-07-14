@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmap16.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/doorhandle/mercedes_actros_2014/doorhandle_normal.tobj"
+	texture_name[0] : "texture_nmap"
+	texture[1] : "/vehicle/truck/upgrade/doorhandle/mercedes_actros_2014/doorhandle_color.tobj"
+	texture_name[1] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.333823 , 0.333823 , 0.333823 }
+	reflection : 0
+	shininess : 40
+	specular : { 0.214041 , 0.214041 , 0.214041 }
+}

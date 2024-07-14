@@ -1,0 +1,10 @@
+material : "eut2.dif.spec" {
+	texture[0] : "/vehicle/truck/upgrade/cargas/textures/4700hg3.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.270588 , 0.270588 , 0.270588 }
+	specular : { 0.258824 , 0.258824 , 0.258824 }
+	shininess : 50
+	add_ambient : 0
+	aux[1] : { 0 , 0 }
+
+}

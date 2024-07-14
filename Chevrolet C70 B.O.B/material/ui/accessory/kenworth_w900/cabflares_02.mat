@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "cabflares_02.tobj"
+	texture_name : "texture"
+}

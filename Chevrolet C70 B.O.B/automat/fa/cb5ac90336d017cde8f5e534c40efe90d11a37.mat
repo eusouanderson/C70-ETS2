@@ -1,0 +1,9 @@
+material : "eut2.sky.over.rfx" {
+	texture[0] : "/dlc/dead_end2_dlc.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/dlc/dead_end_dlc.tobj"
+	texture_name[1] : "texture_over"
+	texture[2] : "/system/special/invisible.tobj"
+	texture_name[2] : "texture_mask"
+	diffuse : { 1 , 1 , 1 }
+}

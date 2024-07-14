@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.nofresnel.rfx" {
+	texture[0] : "/vehicle/wheel/car/generic/17in_normal/17in.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.152621 , 0.162181 , 0.170645 }
+	env_factor : { 0.0196066 , 0.0196066 , 0.0196066 }
+	reflection : 0
+	shininess : 18
+	specular : { 0.603827 , 0.603827 , 0.603827 }
+}

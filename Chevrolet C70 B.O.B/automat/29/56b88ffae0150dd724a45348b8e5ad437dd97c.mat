@@ -1,0 +1,12 @@
+material : "eut2.leaves.rfx" {
+	texture[0] : "/model2/vegetation/grass/stone_small2_fr.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/model2/vegetation/grass/stone_small1_mask_fr.tobj"
+	texture_name[1] : "texture_mask"
+	add_ambient : 0
+	aux[0] : 0
+	aux[1] : { 0 , 1 , 0 }
+	diffuse : { 1 , 1 , 1 }
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

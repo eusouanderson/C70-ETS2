@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "cube_white.dlc_toys.tobj"
+	texture_name : "texture"
+}

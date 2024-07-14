@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "flag_checkered.tobj"
+	texture_name : "texture"
+}

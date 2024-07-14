@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.c.70.foguinho
+{
+	name: "@@Foguinho@@"
+	price: 800
+	unlock: 0
+	icon: "acessoriogotergmgg"
+	exterior_model: "/vehicle/truck/upgrade/foguinho/foguinho.pmd"
+}
+}

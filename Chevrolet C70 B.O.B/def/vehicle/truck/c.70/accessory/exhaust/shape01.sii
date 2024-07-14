@@ -1,0 +1,23 @@
+SiiNunit
+{
+accessory_addon_data : shape01.c.70.exhaust
+{
+	name: "Standard Exhaust"
+	price: 6840
+	unlock: 0
+	icon: "kenworth_w900/exhaust_01"
+	exterior_model: "/vehicle/truck/upgrade/exhaust/c70/exhaust01.pmd"
+
+	suitable_for[]: "long1.c.70.chassis"
+	suitable_for[]: "long1_6x2.c.70.chassis"
+    suitable_for[]: "long2.c.70.chassis"
+	suitable_for[]: "long2_6x2.c.70.chassis"
+	
+	suitable_for[]: "short1.c.70.chassis"
+	suitable_for[]: "short1_6x2.c.70.chassis"
+	suitable_for[]: "short2.c.70.chassis"
+	suitable_for[]: "short2_6x2.c.70.chassis"
+
+
+}
+}

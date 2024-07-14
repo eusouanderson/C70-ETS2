@@ -1,0 +1,9 @@
+material : "eut2.building.day.rfx" {
+	texture[0] : "/material/special/decal_light_01.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : 0
+	diffuse : { 0.00731781 , 0.0211693 , 0.0835351 }
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

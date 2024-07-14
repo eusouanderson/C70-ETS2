@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape01.c.70.horns
+{
+	name: "Horn Adapter"
+	price: 50
+	unlock: 0
+	icon: "horns"
+	exterior_model: "/vehicle/truck/upgrade/horns/c70/horns01.pmd"
+
+
+}
+}

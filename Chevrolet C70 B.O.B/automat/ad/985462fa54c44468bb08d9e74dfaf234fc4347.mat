@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.oclu.rfx" {
+	texture[0] : "/material/tiled/concrete_gs_01.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/prefab/garage_scandinavia/garage_oclu_sc.tobj"
+	texture_name[1] : "texture_oclu"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 16
+	specular : { 0.132868 , 0.132868 , 0.132868 }
+}

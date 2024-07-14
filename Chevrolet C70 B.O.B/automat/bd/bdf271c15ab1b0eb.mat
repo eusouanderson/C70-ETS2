@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.oclu.rfx" {
+	texture[0] : "/vehicle/share/textures/carpet/shared_carpet.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/kenworth_w900/interior/sec_details_ao.tobj"
+	texture_name[1] : "texture_oclu"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	reflection : 0
+	shininess : 80
+	specular : { 0.16982 , 0.16982 , 0.16982 }
+}

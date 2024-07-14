@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.oclu.weight.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/steering_w/sci/leather_retro_dark.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/steering_w/sci/sky_black_n.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/vehicle/truck/upgrade/steering_w/sci/sky_black_ao.tobj"
+	texture_name[2] : "texture_oclu"
+	texture[3] : "/material/environment/interior_static/interior_static.tobj"
+	texture_name[3] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 1 , 1 , 1 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 4
+	specular : { 0 , 0 , 0 }
+}

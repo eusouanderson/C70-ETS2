@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.add.env.nofresnel.tsnmap" {
+	texture[0] : "/vehicle/truck/upgrade/cargas/textures/detail.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/upgrade/cargas/textures/nmap.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	diffuse : { 0.160784 , 0.160784 , 0.160784 }
+	specular : { 0.227451 , 0.227451 , 0.227451 }
+	shininess : 60
+	add_ambient : 0
+	env_factor : { 0.519925 , 0.519925 , 0.519925 }
+
+}

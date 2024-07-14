@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight.rfx" {
+	texture[0] : "/vehicle/truck/mercedes_actros_2009/interior/curtain.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 1
+	diffuse : { 0.250103 , 0.250103 , 0.250103 }
+	reflection : 0
+	shininess : 10
+	specular : { 0.0100228 , 0.0100228 , 0.0100228 }
+}

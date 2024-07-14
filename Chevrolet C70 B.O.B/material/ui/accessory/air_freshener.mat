@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "air_freshener.tobj"
+	texture_name : "texture"
+}

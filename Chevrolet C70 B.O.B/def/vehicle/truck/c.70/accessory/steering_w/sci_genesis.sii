@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : sci_genesis.freightliner.cascadia2019.steering_w
+{
+	name: "Genesis"
+	price: 345
+	unlock: 0
+	icon: "sci/genesis"
+	interior_model: "/vehicle/truck/upgrade/steering_w/sci/genesis.pmd"
+
+}
+}

@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.rfx" {
+	texture[0] : "/model/panorama/lyon/lyon2.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/building_reflection/building_ref.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.0508761 , 0.0508761 , 0.0508761 }
+	reflection : 0
+	shininess : 10
+	specular : { 0.447988 , 0.447988 , 0.447988 }
+}

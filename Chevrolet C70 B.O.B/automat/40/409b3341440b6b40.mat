@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.add.env.rfx" {
+	texture[0] : "/vehicle/truck/mercedes_1935/textures/crome.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.34902 , 0.34902 , 0.34902 }
+	env_factor : { 0.780392 , 0.780392 , 0.780392 }
+	shininess : 50
+	specular : { 1 , 1 , 1 }
+}

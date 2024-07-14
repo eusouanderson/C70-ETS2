@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "skull_chrome.dlc_toys.tobj"
+	texture_name : "texture"
+}

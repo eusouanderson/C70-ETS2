@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "dlc_phys_flags.tobj"
+	texture_name : "texture"
+}

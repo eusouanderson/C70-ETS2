@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : default.c.70.steering_w
+{
+	name: "International Classic"
+	price: 165
+	unlock: 0
+	icon: "inter"
+
+	interior_model: "/vehicle/truck/upgrade/steering_w/steering_w.pmd"
+}
+}

@@ -1,0 +1,8 @@
+material : "eut2.dif.lum" {
+	texture[0] : "/vehicle/truck/mercedes.1916/interior1935/textures/radiopx.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1.0 , 1.0 , 1.0 }
+	shininess : 50
+	specular : { 0.403922 , 0.403922 , 0.403922 }
+}

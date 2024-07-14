@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.rfx" {
+	texture[0] : "/model/wall/new_handrail.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 1 , 0.0227243 , 0.0227243 }
+	reflection : 0
+	shininess : 40
+	specular : { 0.603827 , 0.603827 , 0.603827 }
+}

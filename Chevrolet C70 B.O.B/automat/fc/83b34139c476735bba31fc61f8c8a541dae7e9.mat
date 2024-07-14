@@ -1,0 +1,13 @@
+material : "eut2.glass.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/sunshield/volvo_fh16_2009/sunshield_04.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.132868 , 0.132868 , 0.132868 }
+	shininess : 30
+	specular : { 0.447988 , 0.420832 , 0.375929 }
+	tint : { 1 , 1 , 1 }
+	tint_opacity : 0
+}

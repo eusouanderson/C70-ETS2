@@ -1,0 +1,29 @@
+SiiNunit
+{
+accessory_addon_int_data : shape1.c.70.tena
+{
+	name: "Antena Esquerda"
+	price: 100
+	unlock: 0
+	icon: "b_grill_01"
+   
+	interior_model:	"/vehicle/truck/upgrade/tena/tena_01.pmd"
+
+	data[]: .bhead_dog.phys_data
+}
+
+physics_toy_data : .bhead_dog.phys_data
+{
+	phys_model: "/vehicle/truck/upgrade/tena/tena_02.pmd"
+  
+	toy_type:	 	"TT_joint"		# TT_rope, TT_double_rope, TT_joint
+	toy_mass:	 	1.5			# toy mass
+	locator_hook_offset:	(0.0f, 0.0575f, 0.000f)	# offset of connection point on hook against toy locator
+  
+	# definitions applied only to toys with joint
+	angular_stiffness:	(40.0, 40.0)		# joint - together with angular damping influences frequency and amplitude of oscilation
+	angular_damping:	(0.1, 0.1)		# joint - together with angular stiffness influences frequency and amplitude of oscilation
+	angular_amplitude:	(5.0, 5.0, 5.0)	# joint - maximal deflection agains equilibrium position
+}
+
+}
